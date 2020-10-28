@@ -1,8 +1,8 @@
 
 
-# Creative Agency an IT support web app
-### [LIVE SITE](https://creative-agency-13e91.web.app/)
-### [Server Site Repository](https://github.com/azizul016/creative-agency-sarver)
+# Creative IT Agency
+### [LIVE SITE](https://august-cascade-220007.web.app/)
+### [Server Site Repository](https://github.com/masudpro/agency-server)
 
 ## Features
 - Creative agenct web site is an agency site that have an anthentication system.
